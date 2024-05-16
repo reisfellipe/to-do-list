@@ -6,6 +6,9 @@
     box-sizing: border-box;
 }
 
+html {
+    background-color: black;
+}
 
 body {
     background-image: url('../img/pexels-apasaric-1820770.jpg');
